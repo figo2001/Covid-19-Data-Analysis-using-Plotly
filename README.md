@@ -1,4 +1,4 @@
-[streamlit-app-2024-10-21-02-10-00.webm](https://github.com/user-attachments/assets/7404e3ec-b263-4617-8f1f-2a768914b9ce)# COVID-19 Data Analysis Using Plotly and Exploratory Data Analysis (EDA)
+# COVID-19 Data Analysis Using Plotly and Exploratory Data Analysis (EDA)
 
 This project focuses on analyzing COVID-19 data through exploratory data analysis (EDA) using Python libraries such as `Plotly`, `Pandas`, and `NumPy`. It provides visualizations to better understand trends and insights from the data.
 
